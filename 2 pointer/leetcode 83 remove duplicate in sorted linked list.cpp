@@ -25,3 +25,4 @@ public:
         return head ;
     }
 };
+// nullptr = NULL  
